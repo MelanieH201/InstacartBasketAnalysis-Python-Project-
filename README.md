@@ -1,4 +1,4 @@
-# Python Project: InstacartBasketAnalysis
+# Python Project: Instacart Basket Analysis
 ###### This was a python project I did while enrolled with Career Foundry. I was an analyst for Instacart, an online grocery store that operates through an app. My task was to perform an initial data and exploratory analysis of Instacart data in order to derive insights and suggest strategies for better segmentation based on the provided criteria. 
 ###### Key questions were as follows: 
 ###### 1. The sales team needs to know what the busiest days of the week and hours of the days are (days and times with most orders) in order to schedule ads at times when there are fewer orders. 
